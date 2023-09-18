@@ -28,7 +28,7 @@ this is a list of projects that I already have going on and will either come bac
 - mp3s cannot loop - PSA/educational site/dive into mp3 format/looping/ableton default export, etc.
 - dead maps - map of dead restaurants/institutions in/around new york. gotta find the draft for this project which I should have somewhere but can't find right now.
 - suggestions for [1940s.nyc](https://1940s.nyc/) - suggest/open PR to make site more PWA-/gps-friendly..?
-- secret movie project.
+- secret movie project - more soon!
 - weird zoom/online chat with face detection? I had a draft in march 2020 - is this still something I want to do
 - alternatives to css - artistic-y/creative-y alternatives to css /// port of alternatives to web? swiftui for web? qt for web?
 - like typeracer but for regex
@@ -42,8 +42,8 @@ this is a list of projects that I already have going on and will either come bac
 - minivac 601 emulator!!! is this the ultime rabbit hole will I ever emerge back from it??
 - a le sphinx (old school) crypto device emulator?
 - something about a small project manifesto?
-- a game about being sorry
+- a game about being sorry that will hopefully not make me be even more sorry (it's a gamble I'm ready to take!)
 
-## books/links/things I'd study/go through
+## books/links/things I'd like to study/go through
 
 - learn more lisp i.e. go through little schemer?

@@ -50,7 +50,7 @@ this is a list of projects that I already have going on and will either come bac
 
 - two new shortcuts I made for myself:
   - `ghissue` opens a github issue in the current repo via the gh CLI command -> `alias ghissue='(){gh issue create --title "$1" --body "";}'` in my `.bash_aliases`
-  - `git addpush` does `git add . && git commit -m "." && git push` which is terrible, horrible, not-good form but also gets the job done.
+  - `g addpush` does `git add . && git commit -m "." && git push` which is terrible, horrible, not-good form but also gets the job done.
 
 ## inspiration
 

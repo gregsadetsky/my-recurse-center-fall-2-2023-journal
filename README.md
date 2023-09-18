@@ -38,10 +38,45 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - a le sphinx (old school) crypto device emulator?
 - something about a small project manifesto?
 - a game about being sorry that will hopefully not make me be even more sorry (it's a gamble I'm ready to take!)
+- which day of recurse is it? day 0? day 14? basically [this calendar](https://www.timeanddate.com/date/workdays.html?d1=18&m1=9&y1=2023&d2=8&m2=12&y2=2023&ti=on&) but telling me where I am in-batch. this feels like not a good time investment to make & goes against the idea of taking it day by day, etc.
 
 ## books/links/things I'd like to study/go through
 
-- learn more lisp i.e. go through little schemer?
+- [aardvark'd- 12 weeks with geeks - youtube](https://www.youtube.com/watch?v=ybrkz07lkbk)
+- [accessing llama 2 from the command-line with the llm-replicate plugin](https://simonwillison.net/2023/jul/18/accessing-llama-2/)
+- [beej's guide to network programming](https://beej.us/guide/bgnet/html/split/)
+- [build your own flight sim in c++ (dos gamedev) by michael radtke & chris lampton - michael radtke, chris lampton - free download, borrow, and streaming - internet archive](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
+- [catching up on the weird world of llms](https://simonwillison.net/2023/aug/3/weird-world-of-llms/)
+- [chatlzma – text generation from data compression | hacker news](https://news.ycombinator.com/item?id=37318810)
+- [combinators and graph reduction](http://web.archive.org/web/19971009064824/www.cs.oberlin.edu/classes/cs280/labs/lab4/lab4.html)
+- [compiling to assembly from scratch](https://keleshev.com/compiling-to-assembly-from-scratch/)
+- [crafting interpreters](https://craftinginterpreters.com/)
+- [cs-app3e, bryant and o'hallaron](https://csapp.cs.cmu.edu/)
+- [designing a simple analog kick drum from scratch - youtube](https://www.youtube.com/watch?v=yz37yz315eu)
+- [django ninja](https://django-ninja.rest-framework.com/)
+- [futrell:ziplm](https://github.com/futrell/ziplm)
+- [history of cartography- volumes one, two, three, four, and six](https://press.uchicago.edu/books/hoc/index.html)
+- [how does a database work? | let’s build a simple database](https://cstack.github.io/db_tutorial/)
+- [how to design programs, second edition](https://htdp.org/2023-5-12/book/index.html)
+- [implementing cosine in c from scratch - austin z. henley](https://austinhenley.com/blog/cosine.html)
+- [javascript systems music](https://teropa.info/blog/2016/07/28/javascript-systems-music)
+- [john tromp- the binary lambda calculus, the smallest program language](https://www.youtube.com/watch?v=ejhfjscuviy)
+- [john's combinatory logic playground](https://tromp.github.io/cl/cl.html)
+- [learn physics with functional programming | no starch press](https://nostarch.com/learn-physics-functional-programming)
+- [llm- a cli utility and python library for interacting with large language models](https://llm.datasette.io/en/stable/)
+- [masters of doom](https://www.amazon.com/masters-doom-created-transformed-culture/dp/0812972155)
+- [nand2tetris](https://www.nand2tetris.org/)
+- [neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html)
+- [painting with math- a gentle study of raymarching - maxime heckel's blog](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
+- [ray tracer construction kit](https://matklad.github.io/2022/12/31/raytracer-construction-kit.html)
+- [ray tracing in one weekend series](https://raytracing.github.io/)
+- [the geometry of musical rhythm- what makes a "good" rhythm good?](https://www.amazon.com/geometry-musical-rhythm-makes-second/dp/0815370970/)
+- [the great 'roll your own crypto' debate with filippo valsorda](https://securitycryptographywhatever.com/2021/07/31/the-great-roll-your-own-crypto-debate-with-filippo-valsorda/)
+- [the little schemer](https://www.amazon.com/little-schemer-daniel-p-friedman/dp/0262560992)
+- [top hacker news books of all time](https://hackernewsbooks.com/top-books-on-hacker-news)
+- [visualizing mathematics with 3d printing](http://www.3dprintmath.com/)
+- [web sdr with emscripten decoder](https://news.ycombinator.com/item?id=37153044)
+- [welcome to linux from scratch!](https://www.linuxfromscratch.org/)
 
 ## notes for myself, kinda
 
@@ -51,7 +86,8 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 
 ## inspiration
 
-[John Carmack's .plan archives](https://github.com/oliverbenns/john-carmack-plan) -- how to get there using some super simple tools..? is this Recurse's "checkins" channel? i.e. posting to that channel is... enough?
+- [John Carmack's .plan archives](https://github.com/oliverbenns/john-carmack-plan) -- how to get there using some super simple tools..? is this Recurse's "checkins" channel? i.e. posting to that channel is... enough?
+- "surround yourself with the mess of what you love" - austin kleon (quote offered to me by [Aditya](https://github.com/adityaathalye) -- thanks!!)
 
 ## ongoing background projects (moving this to the very bottom so that I remember that I didn't come to RC to work on these - kinda.)
 

@@ -53,7 +53,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 
 [John Carmack's .plan archives](https://github.com/oliverbenns/john-carmack-plan) -- how to get there using some super simple tools..? is this Recurse's "checkins" channel? i.e. posting to that channel is... enough?
 
-## ongoing background projects (moving this to the very bottom so that I rememer that I didn't come to RC to work on these - kinda.)
+## ongoing background projects (moving this to the very bottom so that I remember that I didn't come to RC to work on these - kinda.)
 
 this is a list of projects that I already have going on and will either come back to / dedicate some time to, or maybe leave alone for a longer while:
 

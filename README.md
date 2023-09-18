@@ -6,14 +6,9 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 
 - day 0 - [2600 covers](https://github.com/gregsadetsky/2600-covers)
 
-## ongoing background projects
+---
 
-this is a list of projects that I already have going on and will either come back to / dedicate some time to, or maybe leave alone for a longer while:
-
-- [chrome gmail dictation extension](https://chrome.google.com/webstore/detail/dictation-for-gmail/eggdmhdpffgikgakkfojgiledkekfdce) -- upkeep, manifest v4, analytics
-- [la parlure - collaborative french-canadian expression dictionary](https://www.laparlure.com/) - unsure but improve it (move away from heroku to save costs?)
-- [dico2rue - collaborative french-french expression dictionary](https://dico2rue.com/) - need to make it actually collaborative & relaunch it properly!!
-- [kriller](https://kriller.com/) - move to a smaller host?
+- [nyc noise](https://nyc-noise.com/) -- work with [Jessica](https://jessica-hallock.com/) on rebuilding i.e. moving away from wordpress. probably django? with mayyybe next.js middle/frontend on netlify to make it super snazzy (+will let us have micro js things)
 
 ## maybe projects (in no particular order)
 
@@ -55,3 +50,12 @@ this is a list of projects that I already have going on and will either come bac
 ## inspiration
 
 [John Carmack's .plan archives](https://github.com/oliverbenns/john-carmack-plan) -- how to get there using some super simple tools..? is this Recurse's "checkins" channel? i.e. posting to that channel is... enough?
+
+## ongoing background projects (moved it to the very bottom so that I rememer that I didn't come to RC to work on these - kinda.)
+
+this is a list of projects that I already have going on and will either come back to / dedicate some time to, or maybe leave alone for a longer while:
+
+- [chrome gmail dictation extension](https://chrome.google.com/webstore/detail/dictation-for-gmail/eggdmhdpffgikgakkfojgiledkekfdce) -- upkeep, manifest v4, analytics
+- [la parlure - collaborative french-canadian expression dictionary](https://www.laparlure.com/) - unsure but improve it (move away from heroku to save costs?)
+- [dico2rue - collaborative french-french expression dictionary](https://dico2rue.com/) - need to make it actually collaborative & relaunch it properly!!
+- [kriller](https://kriller.com/) - move to a smaller host?

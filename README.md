@@ -1,5 +1,3 @@
-# My Recurse Center Fall 2 2023 (sep-dec) Journal
-
 ## what
 
 this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](https://www.recurse.com/) Fall 2 2023 (sep-dec) batch.
@@ -47,3 +45,13 @@ this is a list of projects that I already have going on and will either come bac
 ## books/links/things I'd like to study/go through
 
 - learn more lisp i.e. go through little schemer?
+
+## notes for myself, kinda
+
+- two new shortcuts I made for myself:
+  - `ghissue` opens a github issue in the current repo via the gh CLI command -> `alias ghissue='(){gh issue create --title "$1" --body "";}'` in my `.bash_aliases`
+  - `git addpush` does `git add . && git commit -m "." && git push` which is terrible, horrible, not-good form but also gets the job done.
+
+## inspiration
+
+[John Carmack's .plan archives](https://github.com/oliverbenns/john-carmack-plan) -- how to get there using some super simple tools..? is this Recurse's "checkins" channel? i.e. posting to that channel is... enough?

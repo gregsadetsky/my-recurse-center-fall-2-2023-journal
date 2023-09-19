@@ -5,6 +5,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 ## projects
 
 - day 0 - [2600 covers](https://github.com/gregsadetsky/2600-covers)
+- day 1 - (done as a "test" pairing session) cursed rendition of the [mastermind game](https://en.wikipedia.org/wiki/Mastermind_(board_game)), done with [@cameronfr](https://github.com/cameronfr) -> [code](https://replit.com/@gregsadetsky/Mastermind-Recurse#src/App.jsx) • ["play" it](https://replit.com/@gregsadetsky/Mastermind-Recurse)
 
 ---
 

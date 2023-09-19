@@ -18,7 +18,6 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 
 - "rankist" - drop a bunch of files? or text lines? and be asked which you prefer until you rank them in some order
 - laughing / dying maps - a map of everyone laughing / dying / ... in real time
-- plist web viewer - drop one or multiple files, get them in xml/json into your clipboard (all browser based)
 - exif web viewer - same as plist, all browser based, for one or multiple images
 - sqlite - same as plist/exif, export as csv
 - pong a day - inspired by Pippin Barr's [Pongs](https://pippinbarr.com/pongs/info/), make a number of variations on some """easily understandable""" game. something to do with pushing a ball into a net (with physics/gravity/3d??) but some element of the game is distorted? something simpler?

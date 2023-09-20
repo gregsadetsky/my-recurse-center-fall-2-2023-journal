@@ -7,7 +7,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - day 0 - [2600 covers](https://github.com/gregsadetsky/2600-covers)
 - day 1 - (done as a "test" pairing session) cursed rendition of the [mastermind game](https://en.wikipedia.org/wiki/Mastermind_(board_game)), done with [@cameronfr](https://github.com/cameronfr) -> [code](https://replit.com/@gregsadetsky/Mastermind-Recurse#src/App.jsx) • ["play" it](https://replit.com/@gregsadetsky/Mastermind-Recurse)
 - day 1 - [I just want to see the .plist](https://github.com/gregsadetsky/i-just-want-to-see-the-plist) conversion utility tool
-- day 2 - [Restaurant Funerals](https://gregsadetsky.github.io/restaurant-funerals/) --- very very very very very very very early draft
+- day 2 - [Restaurant Funerals](https://github.com/gregsadetsky/restaurant-funerals) --- very very very very very very very early draft
 
 ---
 

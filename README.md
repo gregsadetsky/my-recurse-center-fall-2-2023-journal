@@ -81,6 +81,8 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [visualizing mathematics with 3d printing](http://www.3dprintmath.com/)
 - [web sdr with emscripten decoder](https://news.ycombinator.com/item?id=37153044)
 - [welcome to linux from scratch!](https://www.linuxfromscratch.org/)
+- [https://raytracing.github.io/books/RayTracingInOneWeekend.html](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+- [https://github.com/Futrell/ziplm](https://github.com/Futrell/ziplm)
 
 ## notes for myself, kinda
 

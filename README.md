@@ -10,6 +10,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [Restaurant Funerals](https://github.com/gregsadetsky/restaurant-funerals) --- very very very very very very very early draft
 - did an end of week 0 [presentation](https://docs.google.com/presentation/d/1tH-kWqsFlvP_dlnA9na-6c7hjuqIK0QN6PsQFCFIiJI/edit?usp=sharing)
 - planning for a software/hardware prototype [recurse sign in rfid](https://github.com/gregsadetsky/recurse-rfid-visits) project -- it's really happening now!
+- [minivac 601](https://github.com/gregsadetsky/minivac601)!! let's goo!!
 
 ---
 

@@ -11,6 +11,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - did an end of week 0 [presentation](https://docs.google.com/presentation/d/1tH-kWqsFlvP_dlnA9na-6c7hjuqIK0QN6PsQFCFIiJI/edit?usp=sharing)
 - planning for a software/hardware prototype [recurse sign in rfid](https://github.com/gregsadetsky/recurse-rfid-visits) project -- it's really happening now!
 - [minivac 601](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!!
+- [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - the elevator sorry game
 
 ---
 

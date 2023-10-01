@@ -12,6 +12,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - planning for a software/hardware prototype [recurse sign in rfid](https://github.com/gregsadetsky/recurse-rfid-visits) project -- it's really happening now!
 - [minivac 601](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!!
 - [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - the elevator sorry game
+- [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for (all? of my future?) django projects
 
 ---
 

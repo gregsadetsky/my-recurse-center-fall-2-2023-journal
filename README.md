@@ -86,6 +86,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [welcome to linux from scratch!](https://www.linuxfromscratch.org/)
 - [https://raytracing.github.io/books/RayTracingInOneWeekend.html](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - [https://github.com/Futrell/ziplm](https://github.com/Futrell/ziplm)
+- http://joyofcryptography.com/
 
 ## notes for myself, kinda
 

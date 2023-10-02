@@ -19,6 +19,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 (ongoing)
 
 - [nyc noise](https://nyc-noise.com/) -- work with [Jessica](https://jessica-hallock.com/) on rebuilding i.e. moving away from wordpress. probably django? with mayyybe next.js middle/frontend on netlify to make it super snazzy (+will let us have micro js things) -> this is happening [here](https://github.com/gregsadetsky/nycnoise)!
+  - related: a ticketing system.....?????????
 
 ## maybe projects (in no particular order)
 

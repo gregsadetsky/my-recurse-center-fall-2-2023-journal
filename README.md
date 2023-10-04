@@ -9,7 +9,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [I just want to see the .plist](https://github.com/gregsadetsky/i-just-want-to-see-the-plist) conversion utility tool
 - [Restaurant Funerals](https://github.com/gregsadetsky/restaurant-funerals) --- very very very very very very very early draft
 - did an end of week 0 [presentation](https://docs.google.com/presentation/d/1tH-kWqsFlvP_dlnA9na-6c7hjuqIK0QN6PsQFCFIiJI/edit?usp=sharing)
-- planning for a software/hardware prototype [recurse sign in rfid](https://github.com/gregsadetsky/recurse-rfid-visits) project -- it's really happening now!
+- [Octopass](https://github.com/gregsadetsky/recurse-rfid-visits)! here is the [web code as well](https://github.com/gregsadetsky/checkintopus).
 - [minivac 601](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!!
 - [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - the elevator sorry game
 - [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for (all? of my future?) django projects

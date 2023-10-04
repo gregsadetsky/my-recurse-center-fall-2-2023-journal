@@ -88,6 +88,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [https://raytracing.github.io/books/RayTracingInOneWeekend.html](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - [https://github.com/Futrell/ziplm](https://github.com/Futrell/ziplm)
 - http://joyofcryptography.com/
+- https://www.youtube.com/watch?v=HLRdruqQfRk
 
 ## notes for myself, kinda
 

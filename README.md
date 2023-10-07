@@ -14,6 +14,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - the elevator sorry game
 - [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for (all? of my future?) django projects
 - [I made a cool demo!!](https://m.youtube.com/watch?v=fxS7OKh_4vc) - it lets you build graphs with your voice
+- ["Every Author as First Author" Web API.](https://eaafa.greg.technology/)
 
 ---
 

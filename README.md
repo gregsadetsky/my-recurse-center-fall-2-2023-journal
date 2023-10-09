@@ -9,7 +9,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [Restaurant Funerals](https://github.com/gregsadetsky/restaurant-funerals) --- very very very very very very very early draft
 - [Octopass](https://github.com/gregsadetsky/recurse-rfid-visits)! here is the [web code as well](https://github.com/gregsadetsky/checkintopus).
 - [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
-- [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - the (elevator) sorry game
+- [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (elevator) sorry game
 - [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for (all? of my future?) django projects
 - [I made a cool demo!!](https://m.youtube.com/watch?v=fxS7OKh_4vc) - it lets you build graphs with your voice
 - ["Every Author as First Author" Web API.](https://eaafa.greg.technology/)

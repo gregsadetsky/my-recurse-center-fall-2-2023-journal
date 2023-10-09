@@ -26,7 +26,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [nyc noise](https://nyc-noise.com/) -- work with [Jessica](https://jessica-hallock.com/) on rebuilding i.e. moving away from wordpress. probably django? with mayyybe next.js middle/frontend on netlify to make it super snazzy (+will let us have micro js things) -> this is happening [here](https://github.com/gregsadetsky/nycnoise)!
   - AND... a ticketing system.....?????????
 
-## pool of maybe-projects (in the order of random)
+## infinite pool of maybe-projects (in order of random)
 
 - "rankist" - drop a bunch of files? or text lines? and be asked which you prefer until you rank them in some order
 - laughing / dying maps - a map of everyone laughing / dying / ... in real time
@@ -93,6 +93,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [https://raytracing.github.io/books/RayTracingInOneWeekend.html](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - [https://github.com/Futrell/ziplm](https://github.com/Futrell/ziplm)
 - http://joyofcryptography.com/
+- https://www.youtube.com/watch?v=HLRdruqQfRk
 - https://www.youtube.com/watch?v=HLRdruqQfRk
 
 ## notes for myself, kinda

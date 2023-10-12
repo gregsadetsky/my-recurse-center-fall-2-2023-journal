@@ -13,8 +13,9 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for (all? of my future?) django projects
 - [I made a cool demo!!](https://m.youtube.com/watch?v=fxS7OKh_4vc) - it lets you build graphs with your voice
 - ["Every Author as First Author" Web API.](https://eaafa.greg.technology/)
-- launched [a blog](https://blog.greg.technology/). posts:
+- launched [a blog](https://blog.greg.technology/). sample posts:
   - [you can use github actions to run a backend web server, kinda](https://blog.greg.technology/2023/10/09/you-can-use-github-actions-to-run-a-backend-web-server-kinda.html)
+- *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!
 
 ### misc'y things
 

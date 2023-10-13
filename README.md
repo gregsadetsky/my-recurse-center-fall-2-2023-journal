@@ -4,28 +4,33 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 
 ## projects
 
+### launched
+
 - [2600 covers](https://github.com/gregsadetsky/2600-covers)
 - [I just want to see the .plist](https://github.com/gregsadetsky/i-just-want-to-see-the-plist) conversion utility tool
-- [Restaurant Funerals](https://github.com/gregsadetsky/restaurant-funerals) --- very very very very very very very early draft
 - [Octopass](https://github.com/gregsadetsky/recurse-rfid-visits)! here is the [web code as well](https://github.com/gregsadetsky/checkintopus).
-- [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
-- [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (elevator) sorry game
 - [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for (all? of my future?) django projects
 - [I made a cool demo!!](https://m.youtube.com/watch?v=fxS7OKh_4vc) - it lets you build graphs with your voice
 - ["Every Author as First Author" Web API.](https://eaafa.greg.technology/)
 - launched [a blog](https://blog.greg.technology/). sample posts:
   - [you can use github actions to run a backend web server, kinda](https://blog.greg.technology/2023/10/09/you-can-use-github-actions-to-run-a-backend-web-server-kinda.html)
+
+### working on them
+
+- [Restaurant Funerals](https://github.com/gregsadetsky/restaurant-funerals) --- very very very very very very very early draft
+- [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
+- [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (elevator) sorry game
 - *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!
 
-### misc'y things
-
-- cursed rendition of the [mastermind game](https://en.wikipedia.org/wiki/Mastermind_(board_game)), done with [@cameronfr](https://github.com/cameronfr) -> [code](https://replit.com/@gregsadetsky/Mastermind-Recurse#src/App.jsx) • ["play" it](https://replit.com/@gregsadetsky/Mastermind-Recurse)
-- week 0 [presentation](https://docs.google.com/presentation/d/1tH-kWqsFlvP_dlnA9na-6c7hjuqIK0QN6PsQFCFIiJI/edit?usp=sharing)
-
-### ongoing
+### ongoing things
 
 - [nyc noise](https://nyc-noise.com/) -- work with [Jessica](https://jessica-hallock.com/) on rebuilding i.e. moving away from wordpress. probably django? with mayyybe next.js middle/frontend on netlify to make it super snazzy (+will let us have micro js things) -> this is happening [here](https://github.com/gregsadetsky/nycnoise)!
   - AND... a ticketing system.....?????????
+
+### things that feel like accomplishments but are also not fully blown projects
+
+- cursed rendition of the [mastermind game](https://en.wikipedia.org/wiki/Mastermind_(board_game)), done with [@cameronfr](https://github.com/cameronfr) -> [code](https://replit.com/@gregsadetsky/Mastermind-Recurse#src/App.jsx) • ["play" it](https://replit.com/@gregsadetsky/Mastermind-Recurse)
+- week 0 [presentation](https://docs.google.com/presentation/d/1tH-kWqsFlvP_dlnA9na-6c7hjuqIK0QN6PsQFCFIiJI/edit?usp=sharing)
 
 ## infinite pool of maybe-projects (in order of random)
 

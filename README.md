@@ -27,11 +27,6 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [nyc noise](https://nyc-noise.com/) -- work with [Jessica](https://jessica-hallock.com/) on rebuilding i.e. moving away from wordpress. probably django? with mayyybe next.js middle/frontend on netlify to make it super snazzy (+will let us have micro js things) -> this is happening [here](https://github.com/gregsadetsky/nycnoise)!
   - AND... a ticketing system.....?????????
 
-### things that feel like accomplishments but are also not fully blown projects
-
-- cursed rendition of the [mastermind game](https://en.wikipedia.org/wiki/Mastermind_(board_game)), done with [@cameronfr](https://github.com/cameronfr) -> [code](https://replit.com/@gregsadetsky/Mastermind-Recurse#src/App.jsx) • ["play" it](https://replit.com/@gregsadetsky/Mastermind-Recurse)
-- week 0 [presentation](https://docs.google.com/presentation/d/1tH-kWqsFlvP_dlnA9na-6c7hjuqIK0QN6PsQFCFIiJI/edit?usp=sharing)
-
 ## infinite pool of maybe-projects (in order of random)
 
 - "rankist" - drop a bunch of files? or text lines? and be asked which you prefer until you rank them in some order

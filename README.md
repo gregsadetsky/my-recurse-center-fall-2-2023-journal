@@ -114,7 +114,7 @@ this is an ongoing journal/dump of thoughts as I go through my [Recurse Center](
 - [John Carmack's .plan archives](https://github.com/oliverbenns/john-carmack-plan) -- how to get there using some super simple tools..? is this Recurse's "checkins" channel? i.e. posting to that channel is... enough?
 - "surround yourself with the mess of what you love" - austin kleon (quote offered to me by [Aditya](https://github.com/adityaathalye) -- thanks!!)
 
-## ongoing background projects (moving this to the very bottom so that I remember that I didn't come to RC to work on these - kinda.)
+## ongoing background projects (moving this to the very bottom to remind myself that I didn't come to RC to work on these even though I still care about these projects a lot)
 
 this is a list of projects that I already have going on and will either come back to / dedicate some time to, or maybe leave alone for a longer while:
 

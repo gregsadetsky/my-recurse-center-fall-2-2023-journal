@@ -14,7 +14,7 @@ an ongoing journal & list of projects I made or want to make while at [Recurse C
 - ["Every Author as First Author" Web API.](https://eaafa.greg.technology/)
 - launched [a blog](https://blog.greg.technology/). sample posts:
   - [you can use github actions to run a backend web server, kinda](https://blog.greg.technology/2023/10/09/you-can-use-github-actions-to-run-a-backend-web-server-kinda.html)
-- [Fastlendly](https://fastlendly.greg.technology/)!! the easiest way to use Calendly and see what events are your on google calendar page
+- [Fastlendly](https://fastlendly.greg.technology/)!! see your or someone's Calendly page and your own google calendar side-by-side!
 
 ### working on them
 

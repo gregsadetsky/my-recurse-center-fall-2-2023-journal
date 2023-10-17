@@ -15,6 +15,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - launched [a blog](https://blog.greg.technology/). sample posts:
   - [you can use github actions to run a backend web server, kinda](https://blog.greg.technology/2023/10/09/you-can-use-github-actions-to-run-a-backend-web-server-kinda.html)
 - [Fastlendly](https://fastlendly.greg.technology/)!! see your or someone's Calendly page and your own google calendar side-by-side!
+- [PDF to Text (OCR) but with no servers!!](https://pdf.greg.technology/)
 
 ### working on them
 
@@ -22,7 +23,6 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
 - [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (elevator) sorry game
 - *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!
-- [PDF to Text (OCR) but with no servers!!](https://github.com/gregsadetsky/pdf-to-ocr-but-no-servers) -- WIP WIP WIP almost there!!!!!!!
 
 ### ongoing things
 

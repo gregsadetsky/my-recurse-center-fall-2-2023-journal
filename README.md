@@ -22,7 +22,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
 - [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (elevator) sorry game
 - *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!
-- [PDF to Text (OCR) but with no servers!!](https://github.com/gregsadetsky/pdf-to-ocr-but-no-servers) -- WIP WIP WIP
+- [PDF to Text (OCR) but with no servers!!](https://github.com/gregsadetsky/pdf-to-ocr-but-no-servers) -- WIP WIP WIP almost there!!!!!!!
 
 ### ongoing things
 

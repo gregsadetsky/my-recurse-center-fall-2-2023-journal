@@ -102,9 +102,9 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 ## notes for myself, kinda
 
 - new shortcuts I made for myself:
-  - `ghissue` opens a github issue in the current repo via the gh CLI command -> `alias ghissue='(){gh issue create --title "$1" --body "";}'` in my `.bash_aliases`
-  - `g addpush` is a git alias in `.gitconfig` which does `git add . && git commit -m "." && git push` which is terrible, horrible, not-good form but also gets the job done.
-  - `gregtechcname (subdomain)` to quickly create a .greg.technology subdomain and add a CNAME file to the current repo/dir ----- for example, https://plist.greg.technology and https://eaafa.greg.technology/ and https://2600.greg.technology/ and https://invest.greg.technology ---- I think CNAMEs are so great.
+  - `ghissue` opens a github issue in the current repo via the gh CLI command -> `alias ghissue='(){gh issue create --title "$1" --body "";}'` in my `.bash_aliases` -- I've never used it
+  - `g addpush` is a git alias in `.gitconfig` which does `git add . && git commit -m "." && git push` which is terrible, horrible, not-good form but also gets the job done. -- I use it ALL the time
+  - `gregtechcname (subdomain)` to quickly create a .greg.technology subdomain and add a CNAME file to the current repo/dir ----- for example, https://plist.greg.technology and https://eaafa.greg.technology/ and https://2600.greg.technology/ and https://invest.greg.technology ---- I think CNAMEs are so great. -- I use it for all of my projects it's great
 
 ## inspiration
 

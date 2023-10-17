@@ -95,16 +95,16 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [welcome to linux from scratch!](https://www.linuxfromscratch.org/)
 - [https://raytracing.github.io/books/RayTracingInOneWeekend.html](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - [https://github.com/Futrell/ziplm](https://github.com/Futrell/ziplm)
-- http://joyofcryptography.com/
-- https://www.youtube.com/watch?v=HLRdruqQfRk
-- https://www.youtube.com/watch?v=HLRdruqQfRk
+- [http://joyofcryptography.com/](http://joyofcryptography.com/)
+- [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
+- [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
 
 ## notes for myself, kinda
 
 - new shortcuts I made for myself:
   - `ghissue` opens a github issue in the current repo via the gh CLI command -> `alias ghissue='(){gh issue create --title "$1" --body "";}'` in my `.bash_aliases` -- I've never used it
   - `g addpush` is a git alias in `.gitconfig` which does `git add . && git commit -m "." && git push` which is terrible, horrible, not-good form but also gets the job done. -- I use it ALL the time
-  - `gregtechcname (subdomain)` to quickly create a .greg.technology subdomain and add a CNAME file to the current repo/dir ----- for example, https://plist.greg.technology and https://eaafa.greg.technology and https://2600.greg.technology and https://invest.greg.technology and https://fastlendly.greg.technology and https://pdf.greg.technology ---- I think CNAMEs are so so great. -- I use it for all of my projects it's great
+  - `gregtechcname (subdomain)` to quickly create a .greg.technology subdomain and add a CNAME file to the current repo/dir ----- for example, [https://plist.greg.technology](https://plist.greg.technology) and [https://eaafa.greg.technology](https://eaafa.greg.technology) and [https://2600.greg.technology](https://2600.greg.technology) and [https://invest.greg.technology](https://invest.greg.technology) and [https://fastlendly.greg.technology](https://fastlendly.greg.technology) and [https://pdf.greg.technology](https://pdf.greg.technology) ---- I think CNAMEs are so so great. -- I use it for all of my projects it's great
 
 ## inspiration
 

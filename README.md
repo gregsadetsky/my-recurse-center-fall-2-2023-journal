@@ -19,7 +19,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 
 ### working on them
 
-- [Restaurant Funerals](https://github.com/gregsadetsky/restaurant-funerals) --- very very very very very very very early draft
+- Restaurant Funerals --- work is in progress
 - [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
 - [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (elevator) sorry game
 - *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!

@@ -29,7 +29,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [nyc noise](https://nyc-noise.com/) -- work with [Jessica](https://jessica-hallock.com/) on rebuilding i.e. moving away from wordpress. probably django? with mayyybe next.js middle/frontend on netlify to make it super snazzy (+will let us have micro js things) -> this is happening [here](https://github.com/gregsadetsky/nycnoise)!
   - AND... a ticketing system.....?????????
 
-## infinite pool of maybe-projects (in order of random)
+## infinite pool of maybe-projects (in order of kinda faves first + then random)
 
 - alternatives to css - artistic-y/creative-y alternatives to css /// port of alternatives to web? swiftui for web? qt for web?
 - mp3s cannot loop - PSA/educational site/dive into mp3 format/looping/ableton default export, etc.

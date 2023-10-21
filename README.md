@@ -31,20 +31,20 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 
 ## infinite pool of maybe-projects (in order of random)
 
-- "rankist" - drop a bunch of files? or text lines? and be asked which you prefer until you rank them in some order
-- exif web viewer - same as plist, all browser based, for one or multiple images
-- sqlite - same as plist/exif, export as csv
-- pong a day - inspired by Pippin Barr's [Pongs](https://pippinbarr.com/pongs/info/), make a number of variations on some """easily understandable""" game. something to do with pushing a ball into a net (with physics/gravity/3d??) but some element of the game is distorted? something simpler?
+- alternatives to css - artistic-y/creative-y alternatives to css /// port of alternatives to web? swiftui for web? qt for web?
 - mp3s cannot loop - PSA/educational site/dive into mp3 format/looping/ableton default export, etc.
 - better PWA support for [1940s.nyc](https://1940s.nyc/) - this [issue/discussion](https://github.com/jboolean/1940s.nyc/issues/876)
+- audio "api" generator - not really an api -- more a comedy project, but exciting nevertheless
 - secret movie project - more soon!
-- weird zoom/online chat with face detection? I had a draft in march 2020 - is this still something I want to do
-- alternatives to css - artistic-y/creative-y alternatives to css /// port of alternatives to web? swiftui for web? qt for web?
-- like typeracer but for regex
 - secret project around food (it's worth the wait/reveal, hopefully)
 - not using clustering in maps -- very hot topic for me. educational/PSA/mapping
+- "rankist" - drop a bunch of files? or text lines? and be asked which you prefer until you rank them in some order
+- like typeracer but for regex
+- exif web viewer and/or cleaner! - same as plist, all browser based, for one or multiple images
+- sqlite - same as plist/exif, export as csv
+- pong a day - inspired by Pippin Barr's [Pongs](https://pippinbarr.com/pongs/info/), make a number of variations on some """easily understandable""" game. something to do with pushing a ball into a net (with physics/gravity/3d??) but some element of the game is distorted? something simpler?
+- weird zoom/online chat with face detection? I had a draft in march 2020 - is this still something I want to do
 - how to run django on a $5 digital ocean vps i.e. how to not use heroku/render? this will be exciting for me because my default of using heroku/render is ruinuous. will dokku ([suggested to me on HN](https://news.ycombinator.com/item?id=37492560)) the solution I've been looking for all my life?
-- audio "api" generator - not really an api -- more a comedy project, but exciting nevertheless
 - something that tracks how many times I open gmail per day (I don't want to know)
 - something about digital smells?
 - something about restaurant reviews?
@@ -111,7 +111,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 
 this is a list of projects that I already have going on and will either come back to / dedicate some time to, or maybe leave alone for a longer while:
 
-- [chrome gmail dictation extension](https://chrome.google.com/webstore/detail/dictation-for-gmail/eggdmhdpffgikgakkfojgiledkekfdce) -- upkeep, manifest v4, analytics
+- [chrome gmail dictation extension](https://chrome.google.com/webstore/detail/dictation-for-gmail/eggdmhdpffgikgakkfojgiledkekfdce) -- upkeep, manifest v4, analytics -- actually working on this too!
+- [kriller](https://kriller.com/) - move to a smaller host? kinda working on this too!
 - [la parlure - collaborative french-canadian expression dictionary](https://www.laparlure.com/) - unsure but improve it (move away from heroku to save costs?)
 - [dico2rue - collaborative french-french expression dictionary](https://dico2rue.com/) - need to make it actually collaborative & relaunch it properly!!
-- [kriller](https://kriller.com/) - move to a smaller host?

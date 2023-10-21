@@ -21,7 +21,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 
 - Restaurant Funerals --- work is in progress
 - [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
-- [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (elevator) sorry game
+- [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (((not)) elevator) sorry game
 - *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!
 
 ### ongoing things
@@ -32,13 +32,11 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 ## infinite pool of maybe-projects (in order of random)
 
 - "rankist" - drop a bunch of files? or text lines? and be asked which you prefer until you rank them in some order
-- laughing / dying maps - a map of everyone laughing / dying / ... in real time
 - exif web viewer - same as plist, all browser based, for one or multiple images
 - sqlite - same as plist/exif, export as csv
 - pong a day - inspired by Pippin Barr's [Pongs](https://pippinbarr.com/pongs/info/), make a number of variations on some """easily understandable""" game. something to do with pushing a ball into a net (with physics/gravity/3d??) but some element of the game is distorted? something simpler?
 - mp3s cannot loop - PSA/educational site/dive into mp3 format/looping/ableton default export, etc.
-- dead maps - map of dead restaurants/institutions in/around new york. gotta find the draft for this project which I should have somewhere but can't find right now.
-- suggestions for [1940s.nyc](https://1940s.nyc/) - suggest/open PR to make site more PWA-/gps-friendly..?
+- better PWA support for [1940s.nyc](https://1940s.nyc/) - this [issue/discussion](https://github.com/jboolean/1940s.nyc/issues/876)
 - secret movie project - more soon!
 - weird zoom/online chat with face detection? I had a draft in march 2020 - is this still something I want to do
 - alternatives to css - artistic-y/creative-y alternatives to css /// port of alternatives to web? swiftui for web? qt for web?
@@ -50,10 +48,8 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - something that tracks how many times I open gmail per day (I don't want to know)
 - something about digital smells?
 - something about restaurant reviews?
-- minivac 601 emulator!!! is this the ultime rabbit hole will I ever emerge back from it??
 - a le sphinx (old school) crypto device emulator?
 - something about a small project manifesto?
-- a game about being sorry that will hopefully not make me be even more sorry (it's a gamble I'm ready to take!)
 - which day of recurse is it? day 0? day 14? basically [this calendar](https://www.timeanddate.com/date/workdays.html?d1=18&m1=9&y1=2023&d2=8&m2=12&y2=2023&ti=on&) but telling me where I am in-batch. this feels like not a good time investment to make & goes against the idea of taking it day by day, etc.
 
 ## books/links/things I'd like to study/go through

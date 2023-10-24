@@ -16,10 +16,10 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
   - [you can use github actions to run a backend web server, kinda](https://blog.greg.technology/2023/10/09/you-can-use-github-actions-to-run-a-backend-web-server-kinda.html)
 - [Fastlendly](https://fastlendly.greg.technology/) see your or someone's Calendly page and your own google calendar side-by-side (this would be better if you could just login to google calendar and see which dates you had in common with the calendly)
 - [PDF to Text (OCR) but with no servers!!](https://pdf.greg.technology/)
+- [Restaurants in Peace](https://restaurants.rip/) -- leave a remembrance for a closed restaurant!!
 
 ### working on them
 
-- Restaurant Funerals --- work is in progress
 - [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
 - [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (((not)) elevator) sorry game
 - *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!

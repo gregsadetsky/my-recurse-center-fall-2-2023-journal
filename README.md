@@ -54,6 +54,9 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 
 ## books/links/things I'd like to study/go through
 
+<details>
+  <summary>LOL as if......... (click to reveal)</summary>
+
 - [aardvark'd- 12 weeks with geeks - youtube](https://www.youtube.com/watch?v=ybrkz07lkbk)
 - [accessing llama 2 from the command-line with the llm-replicate plugin](https://simonwillison.net/2023/jul/18/accessing-llama-2/)
 - [beej's guide to network programming](https://beej.us/guide/bgnet/html/split/)
@@ -94,6 +97,8 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [http://joyofcryptography.com/](http://joyofcryptography.com/)
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
+
+</details>
 
 ## notes for myself, kinda
 

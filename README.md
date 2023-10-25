@@ -52,10 +52,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - something about a small project manifesto?
 - which day of recurse is it? day 0? day 14? basically [this calendar](https://www.timeanddate.com/date/workdays.html?d1=18&m1=9&y1=2023&d2=8&m2=12&y2=2023&ti=on&) but telling me where I am in-batch. this feels like not a good time investment to make & goes against the idea of taking it day by day, etc.
 
-## books/links/things I'd like to study/go through
-
-<details>
-  <summary>LOL as if......... (click to reveal)</summary>
+## books/links/things I'd like to study/go through (LOL yeah no..)
 
 - [aardvark'd- 12 weeks with geeks - youtube](https://www.youtube.com/watch?v=ybrkz07lkbk)
 - [accessing llama 2 from the command-line with the llm-replicate plugin](https://simonwillison.net/2023/jul/18/accessing-llama-2/)
@@ -97,8 +94,6 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [http://joyofcryptography.com/](http://joyofcryptography.com/)
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
-
-</details>
 
 ## notes for myself, kinda
 

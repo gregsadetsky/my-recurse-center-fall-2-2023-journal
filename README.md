@@ -94,6 +94,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [http://joyofcryptography.com/](http://joyofcryptography.com/)
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
+- [https://pysdr.org/index.html](https://pysdr.org/index.html)
 
 ## notes for myself, kinda
 

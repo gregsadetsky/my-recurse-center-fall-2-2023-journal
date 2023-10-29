@@ -95,6 +95,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
 - [https://pysdr.org/index.html](https://pysdr.org/index.html)
+- [https://news.ycombinator.com/item?id=38034363](https://news.ycombinator.com/item?id=38034363)
 
 ## notes for myself, kinda
 

@@ -17,6 +17,9 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [PDF to Text (OCR) but with no servers!!](https://pdf.greg.technology/)
 - [Restaurants in Peace](https://restaurants.rip/) -- leave a remembrance for a closed restaurant!!
   - this project has expanded to [bars.rip](http://bars.rip) and [venues.rip](http://venues.rip) ....!!!
+- RCTV - Recurse Center Television aka an interactive in-hub dashboard/tv/monitor with apps..!!
+  - [backend](https://github.com/gregsadetsky/recurselevision)
+  - [sample mini app](https://github.com/gregsadetsky/rctv-app-list-of-signins)
 
 ### working on them
 

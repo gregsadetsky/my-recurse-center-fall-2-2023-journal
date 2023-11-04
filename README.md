@@ -20,6 +20,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - RCTV - Recurse Center Television aka an interactive in-hub dashboard/tv/monitor with apps..!!
   - [backend](https://github.com/gregsadetsky/recurselevision)
   - [sample mini app](https://github.com/gregsadetsky/rctv-app-list-of-signins)
+- [God](https://www.youtube.com/watch?v=yU2OSrwGbps) - a weird demo
 
 ### working on them
 

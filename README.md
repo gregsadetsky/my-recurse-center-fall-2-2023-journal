@@ -24,7 +24,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 
 ### working on them
 
-- [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... not yet...)
+- [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... maybe almost......)
 - [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (((not)) elevator) sorry game
 - *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!
 

@@ -9,8 +9,8 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [2600 covers](https://2600.greg.technology/COVERS.html)
 - [I just want to see the .plist](https://plist.greg.technology) conversion utility tool
 - [Octopass](https://github.com/gregsadetsky/recurse-rfid-visits)! here is the [web code as well](https://github.com/gregsadetsky/checkintopus).
-- [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for (all? of my future?) django projects
-- [I made a cool demo!!](https://m.youtube.com/watch?v=fxS7OKh_4vc) - it lets you build graphs with your voice
+- [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for django projects
+- [A voice-AI thing](https://m.youtube.com/watch?v=fxS7OKh_4vc) - it lets you create graphs with your voice (a siri figma mashup..??)
 - ["Every Author as First Author" Web API.](https://eaafa.greg.technology/)
 - [a blog](https://blog.greg.technology/)
 - [Fastlendly](https://fastlendly.greg.technology/) see your or someone's Calendly page and your own google calendar side-by-side (this would be better if you could login to google calendar and see which dates you had in common with the calendly)

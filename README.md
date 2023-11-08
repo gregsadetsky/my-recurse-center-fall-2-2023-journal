@@ -107,6 +107,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
   - `ghissue` opens a github issue in the current repo via the gh CLI command -> `alias ghissue='(){gh issue create --title "$1" --body "";}'` in my `.bash_aliases` -- I've never used it
   - `g addpush` is a git alias in `.gitconfig` which does `git add . && git commit -m "." && git push` which is terrible, horrible, not-good form but also gets the job done. -- I use it ALL the time
   - `gregtechcname (subdomain)` to quickly create a .greg.technology subdomain and add a CNAME file to the current repo/dir ----- for example, [https://plist.greg.technology](https://plist.greg.technology) and [https://eaafa.greg.technology](https://eaafa.greg.technology) and [https://2600.greg.technology](https://2600.greg.technology) and [https://invest.greg.technology](https://invest.greg.technology) and [https://fastlendly.greg.technology](https://fastlendly.greg.technology) and [https://pdf.greg.technology](https://pdf.greg.technology) ---- I think CNAMEs are so so great. -- I use it for all of my projects it's great
+  - django bash shortcuts: `djmigrations` to makemigrations, `djmigrate` to migrate, `djrun` to runserver - not that useful
 - femto tools I made:
   - a plugin for [xbar](https://github.com/matryer/xbar) that watches the deployment status of my services on render.com and shows them in the menubar -> [code here](https://gist.github.com/gregsadetsky/7e4f040989d7792c3191316174409670)!
 

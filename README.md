@@ -110,6 +110,8 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
   - django bash shortcuts: `djmigrations` to makemigrations, `djmigrate` to migrate, `djrun` to runserver - not that useful
 - femto tools I made:
   - a plugin for [xbar](https://github.com/matryer/xbar) that watches the deployment status of my services on render.com and shows them in the menubar -> [code here](https://gist.github.com/gregsadetsky/7e4f040989d7792c3191316174409670)!
+- this is the best thing ever since I use vite for everything now -->> https://github.com/skywarth/vite-github-pages-deployer
+  - here's me [using it](https://github.com/gregsadetsky/rctv-app-blog-article/blob/main/.github/workflows/vite-github-pages-deploy.yaml) in the wild!
 
 ## inspiration
 

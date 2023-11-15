@@ -8,24 +8,25 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 
 - [2600 covers](https://2600.greg.technology/COVERS.html)
 - [I just want to see the .plist](https://plist.greg.technology) conversion utility tool
-- [Octopass](https://github.com/gregsadetsky/recurse-rfid-visits)! here is the [web code as well](https://github.com/gregsadetsky/checkintopus).
-- [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter) - a starting point for django projects
-- [A voice-AI thing](https://m.youtube.com/watch?v=fxS7OKh_4vc) - it lets you create graphs with your voice (a siri figma mashup..??)
-- ["Every Author as First Author" Web API.](https://eaafa.greg.technology/)
+- [Octopass](https://github.com/gregsadetsky/recurse-rfid-visits), a way for people attending the Recurse Center to sign in using their RFID tag.
+- [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter), a starting point for django projects
+- [A voice-AI thing](https://m.youtube.com/watch?v=fxS7OKh_4vc), a demo that lets you create graphs with your voice (a siri figma mashup..??)
+- ["Every Author as First Author" Web API](https://eaafa.greg.technology/) - what happens when I take something that's meant to be funny too seriously
 - [a blog](https://blog.greg.technology/)
 - [Fastlendly](https://fastlendly.greg.technology/) see your or someone's Calendly page and your own google calendar side-by-side (this would be better if you could login to google calendar and see which dates you had in common with the calendly)
-- [PDF to Text (OCR) but with no servers!!](https://pdf.greg.technology/)
+- [PDF to Text (OCR) but with no servers!!](https://pdf.greg.technology/) - a useful tool maybe!
 - [Restaurants in Peace](https://restaurants.rip/) -- leave a remembrance for a closed restaurant!!
   - this project has expanded to [bars.rip](http://bars.rip) and [venues.rip](http://venues.rip) ....!!!
-- RCTV - Recurse Center Television aka an interactive in-hub dashboard/tv/monitor with apps..!!
+- RCTV (Recurse Center Television), an interactive in-hub dashboard/tv/monitor with apps..!!
   - [backend](https://github.com/gregsadetsky/recurselevision)
   - [sample mini app](https://github.com/gregsadetsky/rctv-app-list-of-signins)
-- [God](https://www.youtube.com/watch?v=yU2OSrwGbps) - a weird demo
+- [God](https://www.youtube.com/watch?v=yU2OSrwGbps) - a weird speech recognition demo
 
 ### working on them
 
+- A GAME!! that's fast paced and fun??
 - [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... maybe almost......)
-- [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (((not)) elevator) sorry game
+- (another game) [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (((not)) elevator) sorry game
 - *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!
 
 ### ongoing things

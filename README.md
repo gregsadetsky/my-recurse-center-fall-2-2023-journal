@@ -25,9 +25,9 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 ### working on them
 
 - A GAME!! that's fast paced and fun??
-- [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... maybe almost......)
-- (another game) [I thought this would cure me](https://github.com/gregsadetsky/i-thought-this-would-cure-me) - not yet!!! the (((not)) elevator) sorry game
-- *Everyone is* -- have a prototype that works! bit of cleanup/bit of math and I'll deploy!! soon!!
+- [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... maybe!! almost!!!......)
+- (another game) --- name TBD --- it's about being/feeling sorry
+- *Everyone is* -- I have a prototype that works! I need to do bit of cleanup & math and then launch!!
 
 ### ongoing things
 

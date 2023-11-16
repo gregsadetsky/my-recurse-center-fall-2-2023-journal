@@ -21,8 +21,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [Restaurants in Peace](https://restaurants.rip/) -- leave a remembrance for a closed restaurant!!
   - this project has expanded to [bars.rip](http://bars.rip) and [venues.rip](http://venues.rip) ....!!!
 - RCTV (Recurse Center Television), an interactive in-hub dashboard/tv/monitor with apps..!!
-  - [backend](https://github.com/gregsadetsky/recurselevision)
-  - [sample mini app](https://github.com/gregsadetsky/rctv-app-list-of-signins)
+  - [backend](https://github.com/gregsadetsky/rctv)
 - [God](https://www.youtube.com/watch?v=yU2OSrwGbps) - a weird speech recognition demo
 - [SnapShoot](https://snapshoot.greg.technology/) - a game!!!!!!
 

@@ -12,7 +12,10 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - [Minimalish Django Starter](https://github.com/gregsadetsky/minimalish-django-starter), a starting point for django projects
 - [A voice-AI thing](https://m.youtube.com/watch?v=fxS7OKh_4vc), a demo that lets you create graphs with your voice (a siri figma mashup..??)
 - ["Every Author as First Author" Web API](https://eaafa.greg.technology/) - what happens when I take something that's meant to be funny too seriously
-- [a blog](https://blog.greg.technology/)
+- [a blog](https://blog.greg.technology/) chronicling experiments & musings, such as...:
+  - [you can use github actions to run a backend web server, kinda](https://blog.greg.technology/2023/10/09/you-can-use-github-actions-to-run-a-backend-web-server-kinda.html)
+  - [you can use github actions to track your web analytics for free (sorta)](https://blog.greg.technology/2023/11/15/you-can-use-github-actions-to-track-your-web-analytics-for-free-sorta.html)
+  - ['Serializable' and other SQL isolation levels](https://blog.greg.technology/2023/10/25/serializable.html)
 - [Fastlendly](https://fastlendly.greg.technology/) see your or someone's Calendly page and your own google calendar side-by-side (this would be better if you could login to google calendar and see which dates you had in common with the calendly)
 - [PDF to Text (OCR) but with no servers!!](https://pdf.greg.technology/) - a useful tool maybe!
 - [Restaurants in Peace](https://restaurants.rip/) -- leave a remembrance for a closed restaurant!!

@@ -51,7 +51,6 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
 - sqlite - same as plist/exif, export as csv
 - pong a day - inspired by Pippin Barr's [Pongs](https://pippinbarr.com/pongs/info/), make a number of variations on some """easily understandable""" game. something to do with pushing a ball into a net (with physics/gravity/3d??) but some element of the game is distorted? something simpler?
 - weird zoom/online chat with face detection? I had a draft in march 2020 - is this still something I want to do
-- how to run django on a $5 digital ocean vps i.e. how to not use heroku/render? this will be exciting for me because my default of using heroku/render is ruinuous. will dokku ([suggested to me on HN](https://news.ycombinator.com/item?id=37492560)) the solution I've been looking for all my life?
 - something that tracks how many times I open gmail per day (I don't want to know)
 - something about digital smells?
 - something about restaurant reviews?

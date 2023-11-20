@@ -24,7 +24,7 @@ an ongoing journal & list of projects I made, or want to make, while at [Recurse
   - [backend](https://github.com/gregsadetsky/rctv)
 - [God](https://www.youtube.com/watch?v=yU2OSrwGbps) - a weird speech recognition demo
 - [SnapShoot](https://snapshoot.greg.technology/) - a game!!!!!!
-- made the web version of [Sonic Garbage](https://sonicgarbage.greg.technology/), an [idea/prototype/script](https://twitter.com/ColugoMusic/status/1726001266180956440) by @ColugoMusic!
+- [Sonic Garbage](https://sonicgarbage.greg.technology/), my web version/take of an [idea/prototype/script](https://twitter.com/ColugoMusic/status/1726001266180956440) by @ColugoMusic!
 
 ### working on them
 

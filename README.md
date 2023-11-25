@@ -1,6 +1,6 @@
 ## what is this
 
-an ongoing list of projects I made, tried to make, or did not get to make while at [Recurse Center](https://www.recurse.com/) during my time there, sep-dec 2023.
+an ongoing list of projects I made, tried to make, or did not get to make while at [Recurse Center](https://www.recurse.com/), sep-dec 2023.
 
 ## projects
 

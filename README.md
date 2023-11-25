@@ -1,6 +1,6 @@
 ## what is this
 
-an ongoing journal & list of projects I made, or want to make, while at [Recurse Center](https://www.recurse.com/) during the "Fall 2" 2023 (sep-dec) batch.
+an ongoing list of projects I made, tried to make, or did not get to make while at [Recurse Center](https://www.recurse.com/) during my time there, sep-dec 2023.
 
 ## projects
 

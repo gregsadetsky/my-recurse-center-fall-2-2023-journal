@@ -25,6 +25,7 @@ an ongoing list of projects I made, tried to make, or did not get to make while 
 - [God](https://www.youtube.com/watch?v=yU2OSrwGbps) - a weird speech recognition demo
 - [SnapShoot](https://snapshoot.greg.technology/) - a game!!!!!!
 - [Sonic Garbage](https://sonicgarbage.greg.technology/), my web version/take of an [idea/prototype/script](https://twitter.com/ColugoMusic/status/1726001266180956440) by @ColugoMusic!
+- Launching my [Sax Ring Thing product](https://sax.greg.technology/) after months of R&D!!
 
 ### working on them
 

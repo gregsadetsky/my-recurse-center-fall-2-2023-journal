@@ -28,6 +28,7 @@ an ongoing list of projects I made, tried to make, or did not get to make while 
 - launched my [Saxophone Ring Thing](https://sax.greg.technology/) after months of R&D!! it helps you keep your hand positioned correctly on the saxophone (a common issue when learning the instrument)
 - my [Uber Eats Unwrapped 2023](https://unwrapped.greg.technology)
 - [Y](https://y.greg.technology/)
+- [nyc noise](https://nyc-noise.com/) -- LAUNCHED!!! worked with [Jessica](https://jessica-hallock.com/) and batch-mates from recurse -> [repo](https://github.com/gregsadetsky/nycnoise)!
 
 ### working on them
 
@@ -37,8 +38,7 @@ an ongoing list of projects I made, tried to make, or did not get to make while 
 
 ### ongoing things
 
-- [nyc noise](https://nyc-noise.com/) -- work with [Jessica](https://jessica-hallock.com/) on rebuilding i.e. moving away from wordpress. probably django? with mayyybe next.js middle/frontend on netlify to make it super snazzy (+will let us have micro js things) -> this is happening [here](https://github.com/gregsadetsky/nycnoise)!
-  - AND... a ticketing system.....?????????
+- a ticketing system.....?????????
 
 ## infinite pool of maybe-projects (in order of kinda faves first + then random)
 

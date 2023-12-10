@@ -29,6 +29,7 @@ an ongoing list of projects I made, tried to make, or did not get to make while 
 - my [Uber Eats Unwrapped 2023](https://unwrapped.greg.technology)
 - [Y](https://y.greg.technology/)
 - [nyc noise](https://nyc-noise.com/) -- LAUNCHED!!! worked with [Jessica](https://jessica-hallock.com/) and batch-mates from recurse -> [repo](https://github.com/gregsadetsky/nycnoise)!
+- [Slow Marathon](https://slowmarathon.greg.technology/), a site to see how many marathons you've walked in total across all of your iPhone Health data
 
 ### working on them
 

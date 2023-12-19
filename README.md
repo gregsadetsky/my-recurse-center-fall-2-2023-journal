@@ -30,7 +30,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - [Y](https://y.greg.technology/)
 - [nyc noise](https://nyc-noise.com/) -- LAUNCHED!!! worked with [Jessica](https://jessica-hallock.com/) and batch-mates from recurse -> [repo](https://github.com/gregsadetsky/nycnoise)!
 - [Slow Marathon](https://slowmarathon.greg.technology/), a site to see how many marathons you've walked in total across all of your iPhone Health data
-- [A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real](https://sagittarius.greg.technology/)
+- [A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real](https://youtu.be/__nL7Vc0OCg)
 
 ### working on them
 

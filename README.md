@@ -65,7 +65,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - something about a small project manifesto?
 - which day of recurse is it? day 0? day 14? basically [this calendar](https://www.timeanddate.com/date/workdays.html?d1=18&m1=9&y1=2023&d2=8&m2=12&y2=2023&ti=on&) but telling me where I am in-batch. this feels like not a good time investment to make & goes against the idea of taking it day by day, etc.
 
-## books/links/things I'd like to study/go through (LOL yeah no..)
+## books/links/things I'd like to study/go through (maybe in the future, who knows!)
 
 - [aardvark'd- 12 weeks with geeks - youtube](https://www.youtube.com/watch?v=ybrkz07lkbk)
 - [accessing llama 2 from the command-line with the llm-replicate plugin](https://simonwillison.net/2023/jul/18/accessing-llama-2/)
@@ -109,6 +109,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - [https://www.youtube.com/watch?v=HLRdruqQfRk](https://www.youtube.com/watch?v=HLRdruqQfRk)
 - [https://pysdr.org/index.html](https://pysdr.org/index.html)
 - [https://news.ycombinator.com/item?id=38034363](https://news.ycombinator.com/item?id=38034363)
+- https://dx13.co.uk/articles/2023/12/02/byo-index-pt1/
 
 ## notes for myself, kinda
 

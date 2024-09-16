@@ -39,10 +39,6 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - (another game) --- name TBD --- it's about being/feeling sorry
 - *Everyone is* -- I have a prototype that works! I need to do bit of cleanup & math and then launch!!
 
-### ongoing things
-
-- a ticketing system.....?????????
-
 ## infinite pool of maybe-projects (in order of kinda faves first + then random)
 
 - alternatives to css - artistic-y/creative-y alternatives to css /// port of alternatives to web? swiftui for web? qt for web?
@@ -110,6 +106,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - [https://pysdr.org/index.html](https://pysdr.org/index.html)
 - [https://news.ycombinator.com/item?id=38034363](https://news.ycombinator.com/item?id=38034363)
 - https://dx13.co.uk/articles/2023/12/02/byo-index-pt1/
+- https://browser.engineering/
 
 ## notes for myself, kinda
 

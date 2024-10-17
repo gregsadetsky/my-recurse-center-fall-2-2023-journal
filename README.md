@@ -107,6 +107,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - [https://news.ycombinator.com/item?id=38034363](https://news.ycombinator.com/item?id=38034363)
 - https://dx13.co.uk/articles/2023/12/02/byo-index-pt1/
 - https://browser.engineering/
+- https://llvm.org/docs/tutorial/
 
 ## notes for myself, kinda
 

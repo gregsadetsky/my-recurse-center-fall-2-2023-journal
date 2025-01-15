@@ -108,6 +108,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - https://dx13.co.uk/articles/2023/12/02/byo-index-pt1/
 - https://browser.engineering/
 - https://llvm.org/docs/tutorial/
+- https://matthias-research.github.io/pages/tenMinutePhysics/18-flip.pdf
 
 ## notes for myself, kinda
 

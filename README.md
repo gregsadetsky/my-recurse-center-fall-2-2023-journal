@@ -63,6 +63,12 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 
 ## books/links/things I'd like to study/go through (maybe in a future batch, who knows!)
 
+- dsp stuff!!!!!!!!
+  - https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/
+  - https://msp.ucsd.edu/techniques/latest/book-html/
+  - https://www.amazon.com/DAFX-Digital-Effects-Udo-Z%C3%B6lzer/dp/0470665998
+  - one pedal a day? vocal pedals? https://www.korg.com/us/products/effects/mikustomp/ ?
+  - dsp series https://www.youtube.com/@youngmoo-kim
 - [aardvark'd- 12 weeks with geeks - youtube](https://www.youtube.com/watch?v=ybrkz07lkbk)
 - [accessing llama 2 from the command-line with the llm-replicate plugin](https://simonwillison.net/2023/jul/18/accessing-llama-2/)
 - [beej's guide to network programming](https://beej.us/guide/bgnet/html/split/)

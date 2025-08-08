@@ -61,8 +61,15 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - something about a small project manifesto?
 - which day of recurse is it? day 0? day 14? basically [this calendar](https://www.timeanddate.com/date/workdays.html?d1=18&m1=9&y1=2023&d2=8&m2=12&y2=2023&ti=on&) but telling me where I am in-batch. this feels like not a good time investment to make & goes against the idea of taking it day by day, etc.
 
-## books/links/things I'd like to study/go through (maybe in a future batch, who knows!)
+## MY FUTURE BATCH WISHLIST
 
+- https://15445.courses.cs.cmu.edu/fall2025/
+- http://www.redbook.io/
+- https://github.com/DataTalksClub/llm-zoomcamp
+- books from https://eatonphil.com/bookclub.html and/or https://eatonphil.com/2023-database-internals.html
+- https://protohackers.com/
+- https://fly.io/dist-sys/
+- https://codingchallenges.fyi/
 - dsp stuff!!!!!!!!
   - https://valhalladsp.com/2021/09/20/getting-started-with-reverb-design-part-1-dev-environments/
   - https://msp.ucsd.edu/techniques/latest/book-html/

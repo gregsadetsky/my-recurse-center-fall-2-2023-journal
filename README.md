@@ -63,6 +63,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 
 ## MY FUTURE BATCH WISHLIST
 
+- https://www.mathacademy.com
 - https://github.com/FFmpeg/asm-lessons
 - https://15445.courses.cs.cmu.edu/fall2025/
 - http://www.redbook.io/

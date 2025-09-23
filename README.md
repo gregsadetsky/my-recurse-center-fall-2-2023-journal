@@ -63,6 +63,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 
 ## MY FUTURE BATCH WISHLIST
 
+- https://vintageapple.org/macbooks/pdf/Debugging_Macintosh_Software_with_MacsBug_1991.pdf
 - https://operating-system-in-1000-lines.vercel.app/en/
 - https://www.mathacademy.com
 - https://github.com/FFmpeg/asm-lessons

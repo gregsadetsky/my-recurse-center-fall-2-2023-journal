@@ -32,10 +32,10 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - [Slow Marathon](https://slowmarathon.greg.technology/), a site to see how many marathons you've walked in total across all of your iPhone Health data
 - [A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real](https://youtu.be/__nL7Vc0OCg)
 - [Talk Paper Scissors](https://talkpaperscissors.com/), a rock paper scissors game over the telephone with friend [Nolen](https://github.com/nolenroyalty)!
+- DONE!!!!!!!!! [Minivac 601 Simulator](https://minivac.greg.technology/)
 
-### working on them
+### almost finished them
 
-- [minivac 601 simulator](https://github.com/gregsadetsky/minivac-601-simulator)!! let's goo!! (... maybe!! almost!!!......)
 - (another game) --- name TBD --- it's about being/feeling sorry
 - *Everyone is* -- I have a prototype that works! I need to do bit of cleanup & math and then launch!!
 

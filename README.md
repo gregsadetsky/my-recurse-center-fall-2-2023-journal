@@ -63,6 +63,9 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 
 ## MY FUTURE BATCH WISHLIST
 
+- https://cs.gmu.edu/~sean/book/synthesis/
+- https://www.osar.fr/notes/waveguides/
+- https://ccrma.stanford.edu/~jos/
 - http://designinganalogchips.com/ && http://designinganalogchips.com/_count/designinganalogchips.pdf
 - https://vintageapple.org/macbooks/pdf/Debugging_Macintosh_Software_with_MacsBug_1991.pdf
 - https://operating-system-in-1000-lines.vercel.app/en/

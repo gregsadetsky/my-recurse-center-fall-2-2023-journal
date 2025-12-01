@@ -63,6 +63,8 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 
 ## MY FUTURE BATCH WISHLIST
 
+- https://compilers.iecc.com/crenshaw/
+- https://www.venge.net/graydon/talks/
 - https://cs.gmu.edu/~sean/book/synthesis/
 - https://www.osar.fr/notes/waveguides/
 - https://ccrma.stanford.edu/~jos/

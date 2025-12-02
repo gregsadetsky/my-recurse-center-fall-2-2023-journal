@@ -63,6 +63,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 
 ## MY FUTURE BATCH WISHLIST
 
+- https://beej.us/guide/bglcs/html/split/
 - https://paulbatchelor.github.io/proj/sporth.html
 - https://www.youtube.com/@OnurMutluLectures/courses
 - https://worrydream.com/refs/Wirth_2005_-_Project_Oberon.pdf

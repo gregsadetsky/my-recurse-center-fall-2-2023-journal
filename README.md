@@ -63,6 +63,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 
 ## MY FUTURE BATCH WISHLIST
 
+- https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/
 - https://pedaldivision.com
 - https://beej.us/guide/bglcs/html/split/
 - https://paulbatchelor.github.io/proj/sporth.html

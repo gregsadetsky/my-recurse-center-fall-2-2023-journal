@@ -141,6 +141,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - [https://matthias-research.github.io/pages/tenMinutePhysics/18-flip.pdf](https://matthias-research.github.io/pages/tenMinutePhysics/18-flip.pdf)
 - [https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - https://edacation.github.io/
+- https://nobsstats.com/
 
 ## notes for myself, kinda
 

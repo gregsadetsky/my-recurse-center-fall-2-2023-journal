@@ -142,6 +142,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - [https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - https://edacation.github.io/
 - https://nobsstats.com/
+- https://austinhenley.com/blog/challengingprojects.html
 
 ## notes for myself, kinda
 

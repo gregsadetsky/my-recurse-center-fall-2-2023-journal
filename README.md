@@ -143,6 +143,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - https://edacation.github.io/
 - https://nobsstats.com/
 - https://austinhenley.com/blog/challengingprojects.html
+- https://tulip.computer/
 
 ## notes for myself, kinda
 

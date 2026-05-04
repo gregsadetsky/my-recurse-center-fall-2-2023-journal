@@ -144,6 +144,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - https://nobsstats.com/
 - https://austinhenley.com/blog/challengingprojects.html
 - https://tulip.computer/
+- https://webrtcforthecurious.com/
 
 ## notes for myself, kinda
 

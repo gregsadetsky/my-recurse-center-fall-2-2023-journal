@@ -146,6 +146,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - https://tulip.computer/
 - https://webrtcforthecurious.com/
 - https://www.thirtythreeforty.net/posts/mastering-embedded-linux-part-1-concepts/
+- https://pbrt.org/
 
 ## notes for myself, kinda
 

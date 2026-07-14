@@ -148,6 +148,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - https://www.thirtythreeforty.net/posts/mastering-embedded-linux-part-1-concepts/
 - https://pbrt.org/
 - https://iquilezles.org/live/
+- https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/
 
 ## notes for myself, kinda
 

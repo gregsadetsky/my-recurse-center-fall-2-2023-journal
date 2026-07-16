@@ -149,6 +149,8 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - https://pbrt.org/
 - https://iquilezles.org/live/
 - https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/
+- https://mlsysbook.ai/vol1/
+- https://immersivemath.com/ila/learnmore.html
 
 ## notes for myself, kinda
 

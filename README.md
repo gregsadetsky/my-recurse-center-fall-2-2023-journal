@@ -152,6 +152,7 @@ a list of projects I made, tried to make, or did not get to make while at [Recur
 - https://mlsysbook.ai/vol1/
 - https://immersivemath.com/ila/learnmore.html
 - https://www.cs.usfca.edu/~peter/ipp/
+- https://github.com/ssloy/tinyrenderer/wiki
 
 ## notes for myself, kinda
 
